@@ -1,0 +1,4 @@
+aws_region        = "eu-north-1"
+github_owner      = "TU_USUARIO_GITHUB"
+github_repo       = "threatpulse-aws-soar"
+state_bucket_name = "threatpulse-tfstate-tu-alias-2026"
